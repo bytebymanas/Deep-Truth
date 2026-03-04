@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+
+mytasks.todo
+Hands_On_Machine_Learning_with_Scikit_Le.pdf
+logs/
+*.log
+tuning_logs/
+pycache/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+WELFake_Dataset.csv
